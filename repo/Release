@@ -1,0 +1,8 @@
+Origin: colin0_o' Cydia Repo
+Label: colin0_o's Cydia Repo
+Suite: stable
+Version: 1.0
+Codename: z3ct0r
+Architectures: iphoneos-arm
+Components: main
+Description: colin0_o's Cydia Repo

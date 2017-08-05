@@ -1,0 +1,46 @@
+Package: com.macciti.andorathemeios8
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: z3ct0r <colin.johnston.the1@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: debs//com.macciti.andorathemeios8_1.2.1_iphoneos-arm.deb
+Size: 2556648
+MD5sum: d3788cc5139a61a850eb90c3d4b4fa04
+SHA1: 122d57d4377cc43e241aedc96e1402e9fd738ea6
+SHA256: 0d5f2dffdd155022f5e4df1e25477b2121e3f2131243c60311a77cdb29f17869
+Section: Themes
+Author: z3ct0r <colin.johnston.the1@gmail.com>
+Depiction: https://colin0o.github.io/depic/andora/index.html
+Name: Andora iOS 10
+
+Package: com.macciti.flaticonsios7
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: z3ct0r <colin.johnston.the1@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: debs//com.jasonaramday.flaticonsios10_1.5_iphoneos-arm.deb
+Size: 1358032
+MD5sum: bf9062c180d2dec9e40233fb2b43be5f
+SHA1: 912ae6f3b69d1219ec3586c40536d82fc59c6f2c
+SHA256: c1131f9f7e2818a6573e082bc958a566ef2ead0fe357e364fde20e3fe2445deb
+Section: Themes
+Description: FlatIcons is neat
+Author: Jason Aram Day <jday72805@gmail.com>
+Depiction: https://colin0o.github.io/depic/flaticons/index.html
+Name: FlatIcons iOS 10
+
+Package: com.z3ct0r.glyphsy
+Version: 1
+Architecture: iphoneos-arm
+Maintainer: z3ct0r <colin.johnston.the1@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: debs//com.z3ct0r.glyphsy_1_iphoneos-arm.deb
+Size: 55300
+MD5sum: a3d59c11d5ece7b6844e9098672827a8
+SHA1: b5c52f96523154c2188e117dc0a03209a40854bb
+SHA256: 01e415931cbef7c321dc6c43e5251f5542fffca0458d708f75a9083b9aba46a7
+Section: Themes
+Description: Glyphsy
+Author: z3ct0r <colin.johnston.the1@gmail.com>
+Depiction: https://colin0o.github.io/depic/glyphsy/index.html
+Name: Glyphsy
