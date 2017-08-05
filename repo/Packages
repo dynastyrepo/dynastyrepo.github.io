@@ -44,3 +44,19 @@ Description: Glyphsy
 Author: z3ct0r <colin.johnston.the1@gmail.com>
 Depiction: https://colin0o.github.io/depic/glyphsy/index.html
 Name: Glyphsy
+
+Package: com.dynasty.metrix
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Dynasty <colin.johnston.the1@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: debs//com.dynasty.metrix_1.0_iphoneos-arm.deb
+Size: 6100284
+MD5sum: e820ac454fe08a5d9f272fbe6a5ca66c
+SHA1: 8d8221fd88e2a2abdee91c86d4b214ce06a75156
+SHA256: 0ffc1442725c5b5b16e9e4f898356c8683750d57d0f7883a7ffb0d4b855aaa71
+Section: Themes
+Description: Metrix
+Author: Dynasty <colin.johnston.the1@gmail.com>
+Depiction: https://dynastyrepo.github.io/repo/depic/metrix/index.html
+Name: Metrix
