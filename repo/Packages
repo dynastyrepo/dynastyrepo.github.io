@@ -124,3 +124,19 @@ Description: ZB
 Author: Dynasty <colin.johnston.the1@gmail.com>
 Depiction: https://dynastyrepo.github.io/repo/depic/zoob/index.html
 Name: ZOOBHOY iOS 10
+
+Package: com.dynasty.shirogoldeditionios10
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Dynasty <colin.johnston.the1@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: debs//com.dynasty.shirogoldeditionios10_1.0_iphoneos-arm.deb
+Size: 2244266
+MD5sum: 8bc6401666899f5689067e0d71baf539
+SHA1: 87cfc01db8f3516754267ec2e8fe18c7a041a6c3
+SHA256: 418e61c23dcbf0caa6cb3f8971127c0d8e638b5265b984184a24f097f27f5870
+Section: Themes
+Description: Why, hello there!
+Author: Dynasty <colin.johnston.the1@gmail.com>
+Depiction: https://dynastyrepo.github.io/repo/depic/zoob/index.html
+Name: Shiro Gold Edition iOS 10
