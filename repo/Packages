@@ -60,3 +60,67 @@ Description: Metrix
 Author: Dynasty <colin.johnston.the1@gmail.com>
 Depiction: https://dynastyrepo.github.io/repo/depic/metrix/index.html
 Name: Metrix
+
+Package: com.dynasty.swagios10
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Dynasty <colin.johnston.the1@gmail.com>
+Depends: com.macciti.swagyouridevice
+Filename: debs//com.dynasty.swagios10_1.0_iphoneos-arm.deb
+Size: 3875116
+MD5sum: 8c7f2b5ec64f461fea717ef1afd05ed6
+SHA1: 9ff934c42ca3d1cd7e948449e9ad6ae8e91f4515
+SHA256: 5987fcdab751f4e01cdc5242fd6e9fbe29cf10c79a77ab3e54564b99c70970ce
+Section: Themes
+Description: Swag
+Author: Dynasty <colin.johnston.the1@gmail.com>
+Depiction: https://dynastyrepo.github.io/repo/depic/swag/index.html
+Name: Swag iOS 10
+
+Package: com.dynasty.syndromeios10
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Dynasty <colin.johnston.the1@gmail.com>
+Depends: com.macciti.syndrome
+Filename: debs//com.dynasty.syndromeios10_1.0_iphoneos-arm.deb
+Size: 8173350
+MD5sum: 83a1e0aaf81e46cf6ba22b44429f4188
+SHA1: 80617e242e0d2566ba3c9386d4670f4fe698da56
+SHA256: 38125b8634a39e5bff6926175582e2ffc1c03c214222c7724b2e90f21144503e
+Section: Themes
+Description: Syndrome
+Author: Dynasty <colin.johnston.the1@gmail.com>
+Depiction: https://dynastyrepo.github.io/repo/depic/syn/index.html
+Name: Syndrome iOS 10
+
+Package: com.dynasty.zoobhoyeightios10
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Dynasty <colin.johnston.the1@gmail.com>
+Depends: com.macciti.zoobhoyeight
+Filename: debs//com.dynasty.zoobhoyeightios10_1.0_iphoneos-arm.deb
+Size: 18914276
+MD5sum: 350ebeefce00c057dfdc6fa1e67e3c41
+SHA1: 60707fa1544a0b2a334e22ee28f745da86210b3d
+SHA256: 637d5240e63f699e46b0954e4ade22e174c686d820a4f289f5818435e6619f5a
+Section: Themes
+Description: ZB
+Author: Dynasty <colin.johnston.the1@gmail.com>
+Depiction: https://dynastyrepo.github.io/repo/depic/zoob8/index.html
+Name: ZOOBHOY EIGHT iOS 10
+
+Package: com.dynasty.zoobhoyios10
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Dynasty <colin.johnston.the1@gmail.com>
+Depends: com.macciti.zoobhoy
+Filename: debs//com.dynasty.zoobhoyios10_1.0_iphoneos-arm.deb
+Size: 2244266
+MD5sum: f9ad32f1ff0e7a41796403470b9ef7e1
+SHA1: bce1ce8c5655c372b120c9026e4eb7500333e9dd
+SHA256: 1ddaa1a8f647c2401a65493080ad0ac69ef462e12248693379755af3112e013a
+Section: Themes
+Description: ZB
+Author: Dynasty <colin.johnston.the1@gmail.com>
+Depiction: https://dynastyrepo.github.io/repo/depic/zoob/index.html
+Name: ZOOBHOY iOS 10
