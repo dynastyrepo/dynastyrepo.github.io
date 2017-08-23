@@ -1,8 +1,8 @@
-Origin: Dynasty's Cydia Repo
-Label: D Y N A S T Y
+Origin: filzterac
+Label: filzterac
 Suite: stable
 Version: 1.0
-Codename: D Y N A S T Y
+Codename: filzterac
 Architectures: iphoneos-arm
 Components: main
-Description: D Y N A S T Y
+Description: filzterac
