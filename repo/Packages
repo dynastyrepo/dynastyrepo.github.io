@@ -140,3 +140,19 @@ Description: Why, hello there!
 Author: Dynasty <colin.johnston.the1@gmail.com>
 Depiction: https://dynastyrepo.github.io/repo/depic/zoob/index.html
 Name: Shiro Gold Edition iOS 10
+
+Package: com.isaac.ug
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: IsaacTF <jday72805@gmail.com>
+Depends: winterboard
+Filename: debs//com.isaac.ug_0.1_iphoneos-arm.deb
+Size: 1616347
+MD5sum: 17285373a0f34c48a0e57604ad4824b6
+SHA1: a448e00bd6a1c8d4cdf785ace12d106f823d9c72
+SHA256: f46f553a202545d532a77ed182f39ad0dd6ed3312f486c3517d72f5115f49c60
+Section: Themes
+Description: Neat
+Author: IsaacTF <jday72805@gmail.com>
+Depiction: https://dynastyrepo.github.io/repo/depic/ug/index.html
+Name: Unsplash Glyphs
